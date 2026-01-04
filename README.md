@@ -88,5 +88,5 @@ To enroll new fingerprints, use an enrollment sketch (example: `Enroll` from the
 
 ---
 
-## Project Structure
+
 
